@@ -8,14 +8,14 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAuuBlyMfytJrBifPKSA_0tDQCgzS3arfk",
-  authDomain: "certichain-a2433.firebaseapp.com",
-  databaseURL: "https://certichain-a2433-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "certichain-a2433",
-  storageBucket: "certichain-a2433.appspot.com",
-  messagingSenderId: "350012818334",
-  appId: "1:350012818334:web:4fbb5a0956bd329c8d0c8f",
-  measurementId: "G-TYWRYWVDTT"
+  apiKey: "AIzaSyCiKbz4TkoHe80ZiNiQeLq2icTGX6byYsM",
+  authDomain: "certichain-4d8d8.firebaseapp.com",
+  databaseURL: "https://certichain-4d8d8-default-rtdb.firebaseio.com",
+  projectId: "certichain-4d8d8",
+  storageBucket: "certichain-4d8d8.firebasestorage.app",
+  messagingSenderId: "164788382270",
+  appId: "1:164788382270:web:b56e3b1205c526679b3f6f",
+  measurementId: "G-ZEQEN53VQ6",
 };
 
 // Initialize Firebase
